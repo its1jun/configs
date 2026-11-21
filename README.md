@@ -1,1 +1,1 @@
-config들 백업하는곳
+config 백업
