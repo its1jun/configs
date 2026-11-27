@@ -1,6 +1,10 @@
 Device: Speaker Realtek
-Include: speaker.txt
+Include: HP OmniBOok 5 Speaker.txt
 
-Device:  MOMENTUM 4 Headphones
-# Include: headphone_parametric.txt
-Include: headphone_gaphic.txt
+Device: MOMENTUM 4 Headphones
+Include: MOMENTUM 4 Wireless GaphicEQ.txt
+# Include: MOMENTUM 4 Wireless ParametricEQ.txt
+
+Device: Headphones AirPods Pro - Find My {5368d5d9-1c78-4697-92da-372c70116bde}
+Include: AirPods Pro 2 GaphicEQ.txt
+# Include: AirPods Pro 2 ParametricEQ.txt
