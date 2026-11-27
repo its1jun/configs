@@ -1,11 +1,12 @@
 ## 저장 위치
-이 저장소는 **`mpv.exe`가 있는 폴더 안에 `portable_config`라는 이름으로** 넣어야 합니다.
+`mpv.exe`가 있는 폴더 안에 `portable_config`라는 이름으로
 ```
 mpv.exe가 있는 폴더/portable_config
 ```
-- 폴더 이름은 정확히 `portable_config`여야 합니다. 이름을 바꾸면 mpv가 인식하지 못합니다.
-- 설치 후 mpv를 재시작해야 적용됩니다.
-#### mpv.exe 위치 찾기:
+- 폴더 이름은 정확히 `portable_config`여야 함
+- 설치 후 mpv를 재시작해야 적용됨
+
+mpv.exe 위치 찾기:
 ```
 where.exe mpv
 ```
